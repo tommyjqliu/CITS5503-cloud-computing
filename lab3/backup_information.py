@@ -1,4 +1,5 @@
 import boto3
+import os
 
 # Constant setting
 ROOT_DIR = "./"
